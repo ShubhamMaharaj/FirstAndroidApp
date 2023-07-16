@@ -1,4 +1,4 @@
-import { View, Text ,StyleSheet, SafeAreaView, ScrollView } from 'react-native'
+import { Text ,StyleSheet, SafeAreaView, ScrollView } from 'react-native'
 import React from 'react'
 
 const AppPro = () => {
@@ -6,7 +6,7 @@ const AppPro = () => {
     <SafeAreaView>
         <ScrollView>
          
-          <Text>AppPro</Text>
+          <Text>AppPro git </Text>
 
         </ScrollView>
     </SafeAreaView>
